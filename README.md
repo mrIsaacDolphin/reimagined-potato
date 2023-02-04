@@ -1,4 +1,6 @@
-# reimagined-potato
-It's just a reimagined potato. Nothing else to it.
+# It's a potato!
+Welcome to our repository of written project briefs! We have created a collection of detailed and comprehensive project descriptions to help individuals in the tech industry to find interesting projects to work on.
 
-This Github repository is a one-stop-shop for all your tech resource needs. It provides an extensive collection of high-quality resources for developers, engineers, and technology enthusiasts. The repository is updated regularly with the latest tools, tutorials, and reference materials, making it an invaluable resource for anyone looking to improve their tech skills. Whether you're looking to learn a new programming language, explore the latest in AI and machine learning, or gain a deeper understanding of software development methodologies, this repository has you covered. So dive in, and discover the wealth of knowledge and resources waiting for you!
+Whether you're a beginner or an experienced developer, this repository has something for everyone. Our project briefs cover a range of topics and technologies, and each brief includes a clear description of the project requirements, potential challenges, and goals.
+
+Our project briefs are designed to give you a clear understanding of what the project entails, so you can hit the ground running. We have taken care to include all the necessary information you need to get started, including project scope, skills required, and potential outcomes.
